@@ -1,0 +1,8 @@
+D:\Simplilearn\Day-17\Assignment\LibraryAss20\LibraryAss20\bin\Debug\LibraryAss20.exe.config
+D:\Simplilearn\Day-17\Assignment\LibraryAss20\LibraryAss20\bin\Debug\LibraryAss20.exe
+D:\Simplilearn\Day-17\Assignment\LibraryAss20\LibraryAss20\bin\Debug\LibraryAss20.pdb
+D:\Simplilearn\Day-17\Assignment\LibraryAss20\LibraryAss20\obj\Debug\LibraryAss20.csproj.AssemblyReference.cache
+D:\Simplilearn\Day-17\Assignment\LibraryAss20\LibraryAss20\obj\Debug\LibraryAss20.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Day-17\Assignment\LibraryAss20\LibraryAss20\obj\Debug\LibraryAss20.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Day-17\Assignment\LibraryAss20\LibraryAss20\obj\Debug\LibraryAss20.exe
+D:\Simplilearn\Day-17\Assignment\LibraryAss20\LibraryAss20\obj\Debug\LibraryAss20.pdb
